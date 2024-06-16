@@ -1,0 +1,8 @@
+{
+  "recipientEmail": "dalidaluxurtravel@gmail.com",
+  "useSmtp": true,
+  "host": "smtp.example.com",
+  "port": 587,
+  "username": "smtp_username",
+  "password": "smtp_password"
+}
